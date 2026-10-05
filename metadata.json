@@ -1,0 +1,6 @@
+{
+  "name": "FoodieGo - Food Delivery & Discovery",
+  "description": "Discover top restaurants, fresh cuisines, customized meals, live delivery tracking, and seamless ordering with FoodieGo.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
